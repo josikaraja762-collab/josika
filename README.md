@@ -1,0 +1,2 @@
+# josika
+static
